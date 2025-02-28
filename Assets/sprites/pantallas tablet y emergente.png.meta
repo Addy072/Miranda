@@ -1,0 +1,2005 @@
+fileFormatVersion: 2
+guid: 840ecd2e432913f46b3671455fea3f71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4507947598534373227
+    second: pantallas tablet y emergente_0
+  - first:
+      213: -1183694831529163294
+    second: pantallas tablet y emergente_1
+  - first:
+      213: -5958798294836075186
+    second: pantallas tablet y emergente_2
+  - first:
+      213: 2337447049877075205
+    second: pantallas tablet y emergente_3
+  - first:
+      213: -4721773716352882039
+    second: pantallas tablet y emergente_4
+  - first:
+      213: 4159035050615045815
+    second: pantallas tablet y emergente_5
+  - first:
+      213: 4110360612160096668
+    second: pantallas tablet y emergente_6
+  - first:
+      213: -2030404881259404244
+    second: pantallas tablet y emergente_7
+  - first:
+      213: -7183293694831795005
+    second: pantallas tablet y emergente_8
+  - first:
+      213: 289483774651367241
+    second: pantallas tablet y emergente_9
+  - first:
+      213: 1964779571511252572
+    second: pantallas tablet y emergente_10
+  - first:
+      213: -4553213547823960435
+    second: pantallas tablet y emergente_11
+  - first:
+      213: 4239540472571989825
+    second: pantallas tablet y emergente_12
+  - first:
+      213: 6037964051506316998
+    second: pantallas tablet y emergente_13
+  - first:
+      213: -6520553903225839985
+    second: pantallas tablet y emergente_14
+  - first:
+      213: -6074400685581548030
+    second: pantallas tablet y emergente_15
+  - first:
+      213: -5023559894831110075
+    second: pantallas tablet y emergente_16
+  - first:
+      213: -2177035925539373141
+    second: pantallas tablet y emergente_17
+  - first:
+      213: -6185630858304528814
+    second: pantallas tablet y emergente_18
+  - first:
+      213: 3061889218806095932
+    second: pantallas tablet y emergente_19
+  - first:
+      213: -2981437241848703831
+    second: pantallas tablet y emergente_20
+  - first:
+      213: 1691159548026376107
+    second: pantallas tablet y emergente_21
+  - first:
+      213: -8737787215293216551
+    second: pantallas tablet y emergente_22
+  - first:
+      213: -8587772760119828622
+    second: pantallas tablet y emergente_23
+  - first:
+      213: -1040194066962065238
+    second: pantallas tablet y emergente_24
+  - first:
+      213: -3801556285912427414
+    second: pantallas tablet y emergente_25
+  - first:
+      213: -4423469339631075321
+    second: pantallas tablet y emergente_26
+  - first:
+      213: -573631333851863976
+    second: pantallas tablet y emergente_27
+  - first:
+      213: 3783922135969658371
+    second: pantallas tablet y emergente_28
+  - first:
+      213: -8420754464219817156
+    second: pantallas tablet y emergente_29
+  - first:
+      213: 2890138306801054634
+    second: pantallas tablet y emergente_30
+  - first:
+      213: -7986889031666666271
+    second: pantallas tablet y emergente_31
+  - first:
+      213: -4703431571595864396
+    second: pantallas tablet y emergente_32
+  - first:
+      213: -1423158645551612540
+    second: pantallas tablet y emergente_33
+  - first:
+      213: 16059657151922643
+    second: pantallas tablet y emergente_34
+  - first:
+      213: -5574851142554076416
+    second: pantallas tablet y emergente_35
+  - first:
+      213: 9204610809586544828
+    second: pantallas tablet y emergente_36
+  - first:
+      213: -1548534864942808919
+    second: pantallas tablet y emergente_37
+  - first:
+      213: -8071579315308443128
+    second: pantallas tablet y emergente_38
+  - first:
+      213: -1888992138489464704
+    second: pantallas tablet y emergente_39
+  - first:
+      213: -1859807391500287194
+    second: pantallas tablet y emergente_40
+  - first:
+      213: 880091121419563661
+    second: pantallas tablet y emergente_41
+  - first:
+      213: -2465059410792285519
+    second: pantallas tablet y emergente_42
+  - first:
+      213: -7271332322912390318
+    second: pantallas tablet y emergente_43
+  - first:
+      213: -3458492209168910868
+    second: pantallas tablet y emergente_44
+  - first:
+      213: 4111427905770368456
+    second: pantallas tablet y emergente_45
+  - first:
+      213: 7039628540902784339
+    second: pantallas tablet y emergente_46
+  - first:
+      213: 8521984425114663018
+    second: pantallas tablet y emergente_47
+  - first:
+      213: -7901333337179254605
+    second: pantallas tablet y emergente_48
+  - first:
+      213: -4079983815027678868
+    second: pantallas tablet y emergente_49
+  - first:
+      213: -813511378509572785
+    second: pantallas tablet y emergente_50
+  - first:
+      213: 5950618278952804624
+    second: pantallas tablet y emergente_51
+  - first:
+      213: 5785002390032004079
+    second: pantallas tablet y emergente_52
+  - first:
+      213: 7079167115475373787
+    second: pantallas tablet y emergente_53
+  - first:
+      213: -9021979977516786830
+    second: pantallas tablet y emergente_54
+  - first:
+      213: -8528785593127048358
+    second: pantallas tablet y emergente_55
+  - first:
+      213: 3041880754823642213
+    second: pantallas tablet y emergente_56
+  - first:
+      213: 1531082915565181031
+    second: pantallas tablet y emergente_57
+  - first:
+      213: -6640212120164446713
+    second: pantallas tablet y emergente_58
+  - first:
+      213: 2655974858575526006
+    second: pantallas tablet y emergente_59
+  - first:
+      213: -8728949324049298074
+    second: pantallas tablet y emergente_60
+  - first:
+      213: -2658336034901911926
+    second: pantallas tablet y emergente_61
+  - first:
+      213: -4557166324307957627
+    second: pantallas tablet y emergente_62
+  - first:
+      213: 2811307562817781719
+    second: pantallas tablet y emergente_63
+  - first:
+      213: -4121476522838753407
+    second: pantallas tablet y emergente_64
+  - first:
+      213: 3057683417454385676
+    second: pantallas tablet y emergente_65
+  - first:
+      213: 1715628329958082231
+    second: pantallas tablet y emergente_66
+  - first:
+      213: 2838240130142751277
+    second: pantallas tablet y emergente_67
+  - first:
+      213: -1351323447938348499
+    second: pantallas tablet y emergente_68
+  - first:
+      213: 5322497587615814647
+    second: pantallas tablet y emergente_69
+  - first:
+      213: -47283461748815846
+    second: pantallas tablet y emergente_70
+  - first:
+      213: 2428240567659908033
+    second: pantallas tablet y emergente_71
+  - first:
+      213: 4847719869705531897
+    second: pantallas tablet y emergente_72
+  - first:
+      213: 1403281012923331763
+    second: pantallas tablet y emergente_73
+  - first:
+      213: -7882307825735661052
+    second: pantallas tablet y emergente_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1559
+        width: 314
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59098431b8d8071c0800000000000000
+      internalID: -4507947598534373227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1527
+        width: 487
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50d3c72dba29fe0800000000000000
+      internalID: -1183694831529163294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1959
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a71c95881e4da0800000000000000
+      internalID: -5958798294836075186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_3
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1960
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505353125b7407020800000000000000
+      internalID: 2337447049877075205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_4
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1960
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa20f62d3e87eb0800000000000000
+      internalID: -4721773716352882039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_5
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1961
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7befe40d75cd7b930800000000000000
+      internalID: 4159035050615045815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_6
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1966
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994f8af23fea0930800000000000000
+      internalID: 4110360612160096668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_7
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1958
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24605e948d82d3e0800000000000000
+      internalID: -2030404881259404244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_8
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1956
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c46f3a7170df4c90800000000000000
+      internalID: -7183293694831795005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_9
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1965
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f755495f3740400800000000000000
+      internalID: 289483774651367241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_10
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1909
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c565fd54c9c444b10800000000000000
+      internalID: 1964779571511252572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_11
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1910
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ee477f66cbfc0c0800000000000000
+      internalID: -4553213547823960435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_12
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1910
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f8b86099fd5da30800000000000000
+      internalID: 4239540472571989825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_13
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1911
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6cc9870582bc350800000000000000
+      internalID: 6037964051506316998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_14
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1881
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8edf6bb5c65285a0800000000000000
+      internalID: -6520553903225839985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_15
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1879
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206c58092c463bba0800000000000000
+      internalID: -6074400685581548030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_16
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1888
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54861b044eab84ab0800000000000000
+      internalID: -5023559894831110075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_17
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1859
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf36f23c5d99c1e0800000000000000
+      internalID: -2177035925539373141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_18
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1860
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e501bd189382aa0800000000000000
+      internalID: -6185630858304528814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_19
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1860
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30298c95040e7a20800000000000000
+      internalID: 3061889218806095932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_20
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1861
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4dc77ff9ecf96d0800000000000000
+      internalID: -2981437241848703831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_21
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1809
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4f9616a4387710800000000000000
+      internalID: 1691159548026376107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_22
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1810
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d88f7d82d42db680800000000000000
+      internalID: -8737787215293216551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_23
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1810
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f1845bc2a12d880800000000000000
+      internalID: -8587772760119828622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_24
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1811
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8d14dd10d7091f0800000000000000
+      internalID: -1040194066962065238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_25
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1743
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64598013b82e3bc0800000000000000
+      internalID: -3801556285912427414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_26
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1743
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7004578721eac92c0800000000000000
+      internalID: -4423469339631075321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_27
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1759
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e9b1575d0a08f0800000000000000
+      internalID: -573631333851863976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_28
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1760
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30675347221338430800000000000000
+      internalID: 3783922135969658371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_29
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1760
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b946b0e68732b80800000000000000
+      internalID: -8420754464219817156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_30
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1761
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa330a83a75db1820800000000000000
+      internalID: 2890138306801054634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_31
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1789
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e47b07fdbed82190800000000000000
+      internalID: -7986889031666666271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_32
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1772
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6dbadc7ed0abeb0800000000000000
+      internalID: -4703431571595864396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_33
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1709
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dbed880ccef3ce0800000000000000
+      internalID: -1423158645551612540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_34
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1710
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d141cf4c2e093000800000000000000
+      internalID: 16059657151922643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_35
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1710
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b32643c6622a2b0800000000000000
+      internalID: -5574851142554076416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_36
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1711
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0702163c85dbf70800000000000000
+      internalID: 9204610809586544828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_37
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1659
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c6ccaebf728ae0800000000000000
+      internalID: -1548534864942808919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_38
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1660
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a46a6b06dfbff80800000000000000
+      internalID: -8071579315308443128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_39
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1660
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08874d988a3f8c5e0800000000000000
+      internalID: -1888992138489464704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_40
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1661
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623caf6f703a036e0800000000000000
+      internalID: -1859807391500287194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_41
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1609
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8230364636b63c00800000000000000
+      internalID: 880091121419563661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_42
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1610
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bafd7db6895acdd0800000000000000
+      internalID: -2465059410792285519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_43
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1610
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253bdf807c9071b90800000000000000
+      internalID: -7271332322912390318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_44
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1611
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5f70ed8a7f000d0800000000000000
+      internalID: -3458492209168910868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_45
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1559
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd2213a5e9be0930800000000000000
+      internalID: 4111427905770368456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_46
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1560
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d36334cd8c1b160800000000000000
+      internalID: 7039628540902784339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_47
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1560
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fe58eeab244670800000000000000
+      internalID: 8521984425114663018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_48
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1561
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b09a716133d85290800000000000000
+      internalID: -7901333337179254605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1066
+        width: 314
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61aeef365cf067c0800000000000000
+      internalID: -4079983815027678868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 844
+        width: 323
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d23f16b3d5b4f0800000000000000
+      internalID: -813511378509572785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_51
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1509
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ade60cc7d49250800000000000000
+      internalID: 5950618278952804624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_52
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1510
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3b4a20605784050800000000000000
+      internalID: 5785002390032004079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_53
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1510
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde49870cf04e3260800000000000000
+      internalID: 7079167115475373787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_54
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1511
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bdc6dc20d7bc280800000000000000
+      internalID: -9021979977516786830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1156
+        width: 487
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6134c0baa3a980800000000000000
+      internalID: -8528785593127048358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_56
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1402
+        width: 219
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3c501e6ee63a20800000000000000
+      internalID: 3041880754823642213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_57
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1327
+        width: 219
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7689ee7bccf7f3510800000000000000
+      internalID: 1531082915565181031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_58
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1252
+        width: 219
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eca50124a39d3a0800000000000000
+      internalID: -6640212120164446713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_59
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 873
+        width: 219
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67833c9df0bebd420800000000000000
+      internalID: 2655974858575526006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_60
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1193
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc7a576da8cd680800000000000000
+      internalID: -8728949324049298074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 579
+        width: 314
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a861d02f571bb1bd0800000000000000
+      internalID: -2658336034901911926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_62
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1007
+        width: 487
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58860497f51b1c0c0800000000000000
+      internalID: -4557166324307957627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_63
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 941
+        width: 487
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df7f1c5555c30720800000000000000
+      internalID: 2811307562817781719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_64
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 790
+        width: 296
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f751260f29dc6c0800000000000000
+      internalID: -4121476522838753407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_65
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 764
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a98fc2ed21f6a20800000000000000
+      internalID: 3057683417454385676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_66
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 746
+        width: 75
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b68fb550e22fc710800000000000000
+      internalID: 1715628329958082231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_67
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 727
+        width: 109
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aca685c54736720800000000000000
+      internalID: 2838240130142751277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_68
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 708
+        width: 151
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8af4db722f3de0800000000000000
+      internalID: -1351323447938348499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_69
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 689
+        width: 197
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d6bb2b5f4dd940800000000000000
+      internalID: 5322497587615814647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_70
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 670
+        width: 249
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1806ba21f3085ff0800000000000000
+      internalID: -47283461748815846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_71
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 652
+        width: 275
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbcf805ee7d2b120800000000000000
+      internalID: 2428240567659908033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_72
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 634
+        width: 295
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b664898f864340800000000000000
+      internalID: 4847719869705531897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 314
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4785775a4797310800000000000000
+      internalID: 1403281012923331763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantallas tablet y emergente_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 108
+        width: 314
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8eb47bca6c9290800000000000000
+      internalID: -7882307825735661052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

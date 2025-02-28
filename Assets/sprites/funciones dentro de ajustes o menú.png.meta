@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: c1c52e518d21dbc42ac99544fad82ee0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -323836567075252657
+    second: "funciones dentro de ajustes o men\xFA_0"
+  - first:
+      213: -5675749070998225932
+    second: "funciones dentro de ajustes o men\xFA_1"
+  - first:
+      213: 7259919923446882633
+    second: "funciones dentro de ajustes o men\xFA_2"
+  - first:
+      213: 3216564790753650067
+    second: "funciones dentro de ajustes o men\xFA_3"
+  - first:
+      213: -125096342619599393
+    second: "funciones dentro de ajustes o men\xFA_4"
+  - first:
+      213: -3898636157446122480
+    second: "funciones dentro de ajustes o men\xFA_5"
+  - first:
+      213: -4132304617231784977
+    second: "funciones dentro de ajustes o men\xFA_6"
+  - first:
+      213: 4531429169253655429
+    second: "funciones dentro de ajustes o men\xFA_7"
+  - first:
+      213: 3723872509006106674
+    second: "funciones dentro de ajustes o men\xFA_8"
+  - first:
+      213: -2405570615159584530
+    second: "funciones dentro de ajustes o men\xFA_9"
+  - first:
+      213: -6760996758313866906
+    second: "funciones dentro de ajustes o men\xFA_10"
+  - first:
+      213: 9014990264404683684
+    second: "funciones dentro de ajustes o men\xFA_11"
+  - first:
+      213: 7889265205944497666
+    second: "funciones dentro de ajustes o men\xFA_12"
+  - first:
+      213: 1937612576776262842
+    second: "funciones dentro de ajustes o men\xFA_13"
+  - first:
+      213: 5151101752886769594
+    second: "funciones dentro de ajustes o men\xFA_14"
+  - first:
+      213: 6154973792657803057
+    second: "funciones dentro de ajustes o men\xFA_15"
+  - first:
+      213: -4768303747715106891
+    second: "funciones dentro de ajustes o men\xFA_16"
+  - first:
+      213: -4144441318072503049
+    second: "funciones dentro de ajustes o men\xFA_17"
+  - first:
+      213: 489686027034358601
+    second: "funciones dentro de ajustes o men\xFA_18"
+  - first:
+      213: -2698272208592271018
+    second: "funciones dentro de ajustes o men\xFA_19"
+  - first:
+      213: 5537527937137011851
+    second: "funciones dentro de ajustes o men\xFA_20"
+  - first:
+      213: 6511097068154860669
+    second: "funciones dentro de ajustes o men\xFA_21"
+  - first:
+      213: -7659527985835914255
+    second: "funciones dentro de ajustes o men\xFA_22"
+  - first:
+      213: 1437942722870933949
+    second: "funciones dentro de ajustes o men\xFA_23"
+  - first:
+      213: -7534578528845478907
+    second: "funciones dentro de ajustes o men\xFA_24"
+  - first:
+      213: 5233088340655152485
+    second: "funciones dentro de ajustes o men\xFA_25"
+  - first:
+      213: -576719354313298484
+    second: "funciones dentro de ajustes o men\xFA_26"
+  - first:
+      213: -4165409059580452831
+    second: "funciones dentro de ajustes o men\xFA_27"
+  - first:
+      213: -1003675619011034475
+    second: "funciones dentro de ajustes o men\xFA_28"
+  - first:
+      213: 3114586371412434589
+    second: "funciones dentro de ajustes o men\xFA_29"
+  - first:
+      213: 8988299827504599369
+    second: "funciones dentro de ajustes o men\xFA_30"
+  - first:
+      213: 1285619774996400443
+    second: "funciones dentro de ajustes o men\xFA_31"
+  - first:
+      213: 8390316254776443529
+    second: "funciones dentro de ajustes o men\xFA_32"
+  - first:
+      213: 3285832587821789689
+    second: "funciones dentro de ajustes o men\xFA_33"
+  - first:
+      213: 5149045253233646934
+    second: "funciones dentro de ajustes o men\xFA_34"
+  - first:
+      213: -5601318498478561703
+    second: "funciones dentro de ajustes o men\xFA_35"
+  - first:
+      213: -8785046275619318079
+    second: "funciones dentro de ajustes o men\xFA_36"
+  - first:
+      213: 3835007176304963833
+    second: "funciones dentro de ajustes o men\xFA_37"
+  - first:
+      213: 5926571703612121876
+    second: "funciones dentro de ajustes o men\xFA_38"
+  - first:
+      213: -7180165041060821621
+    second: "funciones dentro de ajustes o men\xFA_39"
+  - first:
+      213: -3196847463493100281
+    second: "funciones dentro de ajustes o men\xFA_40"
+  - first:
+      213: 2429383742441868964
+    second: "funciones dentro de ajustes o men\xFA_41"
+  - first:
+      213: -3693556727449355562
+    second: "funciones dentro de ajustes o men\xFA_42"
+  - first:
+      213: 2769486705220239870
+    second: "funciones dentro de ajustes o men\xFA_43"
+  - first:
+      213: -4700599041215032864
+    second: "funciones dentro de ajustes o men\xFA_44"
+  - first:
+      213: 3703555945446642206
+    second: "funciones dentro de ajustes o men\xFA_45"
+  - first:
+      213: 1676082408804807090
+    second: "funciones dentro de ajustes o men\xFA_46"
+  - first:
+      213: -3177921228834241085
+    second: "funciones dentro de ajustes o men\xFA_47"
+  - first:
+      213: -5147154158301852961
+    second: "funciones dentro de ajustes o men\xFA_48"
+  - first:
+      213: -3444634546134378478
+    second: "funciones dentro de ajustes o men\xFA_49"
+  - first:
+      213: 4151081596526910134
+    second: "funciones dentro de ajustes o men\xFA_50"
+  - first:
+      213: 7714134474931248316
+    second: "funciones dentro de ajustes o men\xFA_51"
+  - first:
+      213: 3838875367126836344
+    second: "funciones dentro de ajustes o men\xFA_52"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_0"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f469236ab50818bf0800000000000000
+      internalID: -323836567075252657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_1"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 450
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb5e49a40bb31b0800000000000000
+      internalID: -5675749070998225932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_2"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 450
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94125d6a4ba60c460800000000000000
+      internalID: 7259919923446882633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_3"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 450
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39566e592a883ac20800000000000000
+      internalID: 3216564790753650067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_4"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 450
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd45770a81934ef0800000000000000
+      internalID: -125096342619599393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_5"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 450
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0141ee6121345e9c0800000000000000
+      internalID: -3898636157446122480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_6"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 450
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3613238da17a6c0800000000000000
+      internalID: -4132304617231784977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_7"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 450
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583253622ded2ee30800000000000000
+      internalID: 4531429169253655429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_8"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 450
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d628215adda330800000000000000
+      internalID: 3723872509006106674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_9"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 450
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee88b415542bd9ed0800000000000000
+      internalID: -2405570615159584530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_10"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6696225054d1c22a0800000000000000
+      internalID: -6760996758313866906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_11"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 450
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab227bc1edab1d70800000000000000
+      internalID: 9014990264404683684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_12"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 402
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206bb2bd7ec4c7d60800000000000000
+      internalID: 7889265205944497666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_13"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 402
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab414176f58c3ea10800000000000000
+      internalID: 1937612576776262842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_14"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 402
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab735b6a0c36c7740800000000000000
+      internalID: 5151101752886769594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_15"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 402
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1370531dd0cda6550800000000000000
+      internalID: 6154973792657803057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_16"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 402
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f648410593ddb0800000000000000
+      internalID: -4768303747715106891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_17"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 402
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f436d3549cfb76c0800000000000000
+      internalID: -4144441318072503049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_18"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 402
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943fadcd8d6bbc600800000000000000
+      internalID: 489686027034358601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_19"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 402
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598c8be8bfcd8ad0800000000000000
+      internalID: -2698272208592271018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_20"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 402
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c6adad15049dc40800000000000000
+      internalID: 5537527937137011851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_21"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 350
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74357549401c5a50800000000000000
+      internalID: 6511097068154860669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_22"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 350
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb4619f0e3e3b590800000000000000
+      internalID: -7659527985835914255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_23"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 350
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db97414b94994f310800000000000000
+      internalID: 1437942722870933949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_24"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 350
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50441e77fbccf6790800000000000000
+      internalID: -7534578528845478907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_25"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 350
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1df6ae1aaf9840800000000000000
+      internalID: 5233088340655152485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_26"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 350
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd20178dc41ff7f0800000000000000
+      internalID: -576719354313298484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_27"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 301
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1206383978e7136c0800000000000000
+      internalID: -4165409059580452831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_28"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592802b975a3212f0800000000000000
+      internalID: -1003675619011034475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_29"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 301
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e9f429dcb393b20800000000000000
+      internalID: 3114586371412434589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_30"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 301
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941dd11321bdcbc70800000000000000
+      internalID: 8988299827504599369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_31"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 301
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39c0e4bf5077d110800000000000000
+      internalID: 1285619774996400443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_32"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 301
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c22f0e24607470800000000000000
+      internalID: 8390316254776443529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_33"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 301
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1358c545f999d20800000000000000
+      internalID: 3285832587821789689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_34"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 257
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d17638065157740800000000000000
+      internalID: 5149045253233646934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_35"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 257
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9566c50b08e1442b0800000000000000
+      internalID: -5601318498478561703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_36"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6975e15fe351680800000000000000
+      internalID: -8785046275619318079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_37"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 256
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f03bb645bea83530800000000000000
+      internalID: 3835007176304963833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_38"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 257
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413aea960996f3250800000000000000
+      internalID: 5926571703612121876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_39"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 211
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8544e2ffedea5c90800000000000000
+      internalID: -7180165041060821621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_40"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d92696b2482a3d0800000000000000
+      internalID: -3196847463493100281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_41"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 211
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4b5f64a7e6b120800000000000000
+      internalID: 2429383742441868964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_42"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 211
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da70a6c9b9ddbcc0800000000000000
+      internalID: -3693556727449355562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_43"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 166
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c1da2c713f6620800000000000000
+      internalID: 2769486705220239870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_44"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 165
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e116dca31e14ceb0800000000000000
+      internalID: -4700599041215032864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_45"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 165
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e121226928ca56330800000000000000
+      internalID: 3703555945446642206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_46"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 166
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1771f0214a24710800000000000000
+      internalID: 1676082408804807090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_47"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 166
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5892fca71c5e3d0800000000000000
+      internalID: -3177921228834241085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_48"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 126
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda4e365092a198b0800000000000000
+      internalID: -5147154158301852961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_49"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2181f9871233230d0800000000000000
+      internalID: -3444634546134378478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_50"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad5aaf7ba9b9930800000000000000
+      internalID: 4151081596526910134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_51"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 127
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc1fd70f6c1e0b60800000000000000
+      internalID: 7714134474931248316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "funciones dentro de ajustes o men\xFA_52"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 127
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874a792aecc664530800000000000000
+      internalID: 3838875367126836344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2255 @@
+fileFormatVersion: 2
+guid: 85ef6d98aa673be4c94a96171e23ec8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6656160808988805708
+    second: "minimapa, teclaso y rat\xF3n_0"
+  - first:
+      213: -8699832895788861019
+    second: "minimapa, teclaso y rat\xF3n_1"
+  - first:
+      213: 2828088196318991744
+    second: "minimapa, teclaso y rat\xF3n_2"
+  - first:
+      213: -1006338382324417841
+    second: "minimapa, teclaso y rat\xF3n_3"
+  - first:
+      213: 6292410602740562983
+    second: "minimapa, teclaso y rat\xF3n_4"
+  - first:
+      213: -89877948960606308
+    second: "minimapa, teclaso y rat\xF3n_5"
+  - first:
+      213: -5893511321463620023
+    second: "minimapa, teclaso y rat\xF3n_6"
+  - first:
+      213: 1900734397942912572
+    second: "minimapa, teclaso y rat\xF3n_7"
+  - first:
+      213: -2529656876279634729
+    second: "minimapa, teclaso y rat\xF3n_8"
+  - first:
+      213: -7796642968109594272
+    second: "minimapa, teclaso y rat\xF3n_9"
+  - first:
+      213: -1689894833394607862
+    second: "minimapa, teclaso y rat\xF3n_10"
+  - first:
+      213: 6887854579833031678
+    second: "minimapa, teclaso y rat\xF3n_11"
+  - first:
+      213: -2230184374764960560
+    second: "minimapa, teclaso y rat\xF3n_12"
+  - first:
+      213: -6286179324807845030
+    second: "minimapa, teclaso y rat\xF3n_13"
+  - first:
+      213: 2164181684979906864
+    second: "minimapa, teclaso y rat\xF3n_14"
+  - first:
+      213: 7793824926720444984
+    second: "minimapa, teclaso y rat\xF3n_15"
+  - first:
+      213: -7706039391805440196
+    second: "minimapa, teclaso y rat\xF3n_16"
+  - first:
+      213: -8493535777019119282
+    second: "minimapa, teclaso y rat\xF3n_17"
+  - first:
+      213: 816916427085441840
+    second: "minimapa, teclaso y rat\xF3n_18"
+  - first:
+      213: -2126012604022465967
+    second: "minimapa, teclaso y rat\xF3n_19"
+  - first:
+      213: 3802961113327437712
+    second: "minimapa, teclaso y rat\xF3n_20"
+  - first:
+      213: -5282809040618926992
+    second: "minimapa, teclaso y rat\xF3n_21"
+  - first:
+      213: -2774459452150679465
+    second: "minimapa, teclaso y rat\xF3n_22"
+  - first:
+      213: 1950085058306453758
+    second: "minimapa, teclaso y rat\xF3n_23"
+  - first:
+      213: 7076898888524092753
+    second: "minimapa, teclaso y rat\xF3n_24"
+  - first:
+      213: -4743183796505883251
+    second: "minimapa, teclaso y rat\xF3n_25"
+  - first:
+      213: 8522493968065024254
+    second: "minimapa, teclaso y rat\xF3n_26"
+  - first:
+      213: 1746890220252565959
+    second: "minimapa, teclaso y rat\xF3n_27"
+  - first:
+      213: -1844220443065115588
+    second: "minimapa, teclaso y rat\xF3n_28"
+  - first:
+      213: -6919574084547182076
+    second: "minimapa, teclaso y rat\xF3n_29"
+  - first:
+      213: -5035911010926304593
+    second: "minimapa, teclaso y rat\xF3n_30"
+  - first:
+      213: 1401145367711042637
+    second: "minimapa, teclaso y rat\xF3n_31"
+  - first:
+      213: 3789852956521567409
+    second: "minimapa, teclaso y rat\xF3n_32"
+  - first:
+      213: -4595244684464807216
+    second: "minimapa, teclaso y rat\xF3n_33"
+  - first:
+      213: -5635400696461060090
+    second: "minimapa, teclaso y rat\xF3n_34"
+  - first:
+      213: 3162729811428663912
+    second: "minimapa, teclaso y rat\xF3n_35"
+  - first:
+      213: 2464432939072302169
+    second: "minimapa, teclaso y rat\xF3n_36"
+  - first:
+      213: -5699112734636416488
+    second: "minimapa, teclaso y rat\xF3n_37"
+  - first:
+      213: -88327227685525565
+    second: "minimapa, teclaso y rat\xF3n_38"
+  - first:
+      213: -2210830173467860691
+    second: "minimapa, teclaso y rat\xF3n_39"
+  - first:
+      213: -7250747700876046150
+    second: "minimapa, teclaso y rat\xF3n_40"
+  - first:
+      213: 7843743057232079977
+    second: "minimapa, teclaso y rat\xF3n_41"
+  - first:
+      213: 5658781665722914161
+    second: "minimapa, teclaso y rat\xF3n_42"
+  - first:
+      213: 468216409610405345
+    second: "minimapa, teclaso y rat\xF3n_43"
+  - first:
+      213: -2303998215616542158
+    second: "minimapa, teclaso y rat\xF3n_44"
+  - first:
+      213: 9076449832719680008
+    second: "minimapa, teclaso y rat\xF3n_45"
+  - first:
+      213: 844684050857831338
+    second: "minimapa, teclaso y rat\xF3n_46"
+  - first:
+      213: 5506986814355966782
+    second: "minimapa, teclaso y rat\xF3n_47"
+  - first:
+      213: 5040767925143434754
+    second: "minimapa, teclaso y rat\xF3n_48"
+  - first:
+      213: -8010544625134297296
+    second: "minimapa, teclaso y rat\xF3n_49"
+  - first:
+      213: 5754384570761557181
+    second: "minimapa, teclaso y rat\xF3n_50"
+  - first:
+      213: -4026386437125365276
+    second: "minimapa, teclaso y rat\xF3n_51"
+  - first:
+      213: 8552670661599379696
+    second: "minimapa, teclaso y rat\xF3n_52"
+  - first:
+      213: 1391650154691922711
+    second: "minimapa, teclaso y rat\xF3n_53"
+  - first:
+      213: -6568325213856629448
+    second: "minimapa, teclaso y rat\xF3n_54"
+  - first:
+      213: 4537756773600882749
+    second: "minimapa, teclaso y rat\xF3n_55"
+  - first:
+      213: -3487361100027902829
+    second: "minimapa, teclaso y rat\xF3n_56"
+  - first:
+      213: -1683711533488348193
+    second: "minimapa, teclaso y rat\xF3n_57"
+  - first:
+      213: 8651525547276612193
+    second: "minimapa, teclaso y rat\xF3n_58"
+  - first:
+      213: 2863588435212063041
+    second: "minimapa, teclaso y rat\xF3n_59"
+  - first:
+      213: -40964260947412415
+    second: "minimapa, teclaso y rat\xF3n_60"
+  - first:
+      213: -1060852785082212962
+    second: "minimapa, teclaso y rat\xF3n_61"
+  - first:
+      213: -5935111905685258053
+    second: "minimapa, teclaso y rat\xF3n_62"
+  - first:
+      213: -5418150394043372878
+    second: "minimapa, teclaso y rat\xF3n_63"
+  - first:
+      213: 4296391283678009068
+    second: "minimapa, teclaso y rat\xF3n_64"
+  - first:
+      213: -1612364464190781487
+    second: "minimapa, teclaso y rat\xF3n_65"
+  - first:
+      213: 1683976412249862084
+    second: "minimapa, teclaso y rat\xF3n_66"
+  - first:
+      213: 6596084264052901121
+    second: "minimapa, teclaso y rat\xF3n_67"
+  - first:
+      213: -721547127707777370
+    second: "minimapa, teclaso y rat\xF3n_68"
+  - first:
+      213: -2923588855298046580
+    second: "minimapa, teclaso y rat\xF3n_69"
+  - first:
+      213: -7781027113350646977
+    second: "minimapa, teclaso y rat\xF3n_70"
+  - first:
+      213: -4235544257623308607
+    second: "minimapa, teclaso y rat\xF3n_71"
+  - first:
+      213: -6371903210794673090
+    second: "minimapa, teclaso y rat\xF3n_72"
+  - first:
+      213: 2238427981376425757
+    second: "minimapa, teclaso y rat\xF3n_73"
+  - first:
+      213: 4385506608045226949
+    second: "minimapa, teclaso y rat\xF3n_74"
+  - first:
+      213: -1994035044346523614
+    second: "minimapa, teclaso y rat\xF3n_75"
+  - first:
+      213: -1293139486158307873
+    second: "minimapa, teclaso y rat\xF3n_76"
+  - first:
+      213: 651311180069574630
+    second: "minimapa, teclaso y rat\xF3n_77"
+  - first:
+      213: 4756776271874600980
+    second: "minimapa, teclaso y rat\xF3n_78"
+  - first:
+      213: 2833085350980356506
+    second: "minimapa, teclaso y rat\xF3n_79"
+  - first:
+      213: -9038251806312332856
+    second: "minimapa, teclaso y rat\xF3n_80"
+  - first:
+      213: -6535888115122659524
+    second: "minimapa, teclaso y rat\xF3n_81"
+  - first:
+      213: 8561087810031331778
+    second: "minimapa, teclaso y rat\xF3n_82"
+  - first:
+      213: 1477416280217233094
+    second: "minimapa, teclaso y rat\xF3n_83"
+  - first:
+      213: 4659679394097805848
+    second: "minimapa, teclaso y rat\xF3n_84"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_0"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 964
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a87ab6dfe6f5c50800000000000000
+      internalID: 6656160808988805708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_1"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 964
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a93f31331cf34780800000000000000
+      internalID: -8699832895788861019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_2"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 964
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085911f0b336f3720800000000000000
+      internalID: 2828088196318991744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_3"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 964
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca36b5b294c802f0800000000000000
+      internalID: -1006338382324417841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_4"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb045ca12235750800000000000000
+      internalID: 6292410602740562983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_5"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ff0b4b70b0cef0800000000000000
+      internalID: -89877948960606308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_6"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94efa64adaa063ea0800000000000000
+      internalID: -5893511321463620023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_7"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36d0c94dd3c06a10800000000000000
+      internalID: 1900734397942912572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_8"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46ab5497ad4ecd0800000000000000
+      internalID: -2529656876279634729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_9"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c7456782ccc390800000000000000
+      internalID: -7796642968109594272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_10"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091fbb3a994c88e0800000000000000
+      internalID: -1689894833394607862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_11"
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbce773f33969f50800000000000000
+      internalID: 6887854579833031678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_12"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4028e802bcc01e0800000000000000
+      internalID: -2230184374764960560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_13"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 963
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6c6ea53103c8a0800000000000000
+      internalID: -6286179324807845030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_14"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03932a2b6c7b80e10800000000000000
+      internalID: 2164181684979906864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_15"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 875
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac1c63a7a392c60800000000000000
+      internalID: 7793824926720444984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_16"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ff4426006ae0590800000000000000
+      internalID: -7706039391805440196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_17"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4934b32636e02a80800000000000000
+      internalID: -8493535777019119282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_18"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03beb978925465b00800000000000000
+      internalID: 816916427085441840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_19"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15adc3dfcc2ee72e0800000000000000
+      internalID: -2126012604022465967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_20"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097818ecbf4d6c430800000000000000
+      internalID: 3802961113327437712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_21"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccfa5ca21bfa6b0800000000000000
+      internalID: -5282809040618926992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_22"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75875d6f3d32f79d0800000000000000
+      internalID: -2774459452150679465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_23"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0372e4708101b10800000000000000
+      internalID: 1950085058306453758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_24"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d5d94b02363260800000000000000
+      internalID: 7076898888524092753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_25"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc0e0b773dc2eb0800000000000000
+      internalID: -4743183796505883251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_26"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0dcee1c1bf54670800000000000000
+      internalID: 8522493968065024254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_27"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c112cf56633e3810800000000000000
+      internalID: 1746890220252565959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_28"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c179337430866e0800000000000000
+      internalID: -1844220443065115588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_29"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020195180cb8ff90800000000000000
+      internalID: -6919574084547182076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_30"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26241fd99dc1ab0800000000000000
+      internalID: -5035911010926304593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_31"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cc911d94ed17310800000000000000
+      internalID: 1401145367711042637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_32"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49e683f23489430800000000000000
+      internalID: 3789852956521567409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_33"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2297e5e496a30c0800000000000000
+      internalID: -4595244684464807216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_34"
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60813789ce80bc1b0800000000000000
+      internalID: -5635400696461060090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_35"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8626eb2b10644eb20800000000000000
+      internalID: 3162729811428663912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_36"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2d2273bc633220800000000000000
+      internalID: 2464432939072302169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_37"
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812671db92fa8e0b0800000000000000
+      internalID: -5699112734636416488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_38"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 919
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c72fc9bad236cef0800000000000000
+      internalID: -88327227685525565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_39"
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 875
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21abb3bbad8151e0800000000000000
+      internalID: -2210830173467860691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_40"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 919
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab09d45d16b206b90800000000000000
+      internalID: -7250747700876046150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_41"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 830
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c21cba0c29adc60800000000000000
+      internalID: 7843743057232079977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_42"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17558e681f7088e40800000000000000
+      internalID: 5658781665722914161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_43"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e546d408507f7600800000000000000
+      internalID: 468216409610405345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_44"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aca0b74dd8600e0800000000000000
+      internalID: -2303998215616542158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_45"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80209e4a80706fd70800000000000000
+      internalID: 9076449832719680008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_46"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba1de3babe8bb00800000000000000
+      internalID: 844684050857831338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_47"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8274945fbc6c40800000000000000
+      internalID: 5506986814355966782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_48"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067b5588b764f540800000000000000
+      internalID: 5040767925143434754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_49"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9479ea14d4d090800000000000000
+      internalID: -8010544625134297296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_50"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db43b31774eabdf40800000000000000
+      internalID: 5754384570761557181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_51"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e121be3ed66f18c0800000000000000
+      internalID: -4026386437125365276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_52"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 830
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0498917a031b670800000000000000
+      internalID: 8552670661599379696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_53"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 831
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b87024172205310800000000000000
+      internalID: 1391650154691922711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_54"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 785
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d75dab40f98d4a0800000000000000
+      internalID: -6568325213856629448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_55"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d307a975eb959fe30800000000000000
+      internalID: 4537756773600882749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_56"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394425d6e876a9fc0800000000000000
+      internalID: -3487361100027902829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_57"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e23ee74142a8e0800000000000000
+      internalID: -1683711533488348193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_58"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162b3a2c5a4601870800000000000000
+      internalID: 8651525547276612193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_59"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415bb782828db720800000000000000
+      internalID: 2863588435212063041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_60"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3eb1c8377e6ff0800000000000000
+      internalID: -40964260947412415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_61"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dd03a33081741f0800000000000000
+      internalID: -1060852785082212962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_62"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb04077da2f32ada0800000000000000
+      internalID: -5935111905685258053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_63"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae6675cecdec4b0800000000000000
+      internalID: -5418150394043372878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_64"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce656b7fb19df9b30800000000000000
+      internalID: 4296391283678009068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_65"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 785
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7027fff0bbf99e0800000000000000
+      internalID: -1612364464190781487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_66"
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 785
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf2a46ff9fae5710800000000000000
+      internalID: 1683976412249862084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_67"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 764
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105ca6bc0bff98b50800000000000000
+      internalID: 6596084264052901121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_68"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 739
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64644d5bc8cf5f0800000000000000
+      internalID: -721547127707777370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_69"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 739
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c854baa0d635d67d0800000000000000
+      internalID: -2923588855298046580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_70"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 739
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f333d09e01d340490800000000000000
+      internalID: -7781027113350646977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_71"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 739
+        width: 282
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6cae540f25835c0800000000000000
+      internalID: -4235544257623308607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_72"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 739
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c99612ac37297a0800000000000000
+      internalID: -6371903210794673090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_73"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 739
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f8c3da36e701f10800000000000000
+      internalID: 2238427981376425757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_74"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 718
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbf9ac46037cdc30800000000000000
+      internalID: 4385506608045226949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_75"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 718
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2209b0821b3c354e0800000000000000
+      internalID: -1994035044346523614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_76"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 718
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb08a1d78dd0ee0800000000000000
+      internalID: -1293139486158307873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_77"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 432
+        width: 156
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e79946411ce90900800000000000000
+      internalID: 651311180069574630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_78"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 275
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b71911d6730240800000000000000
+      internalID: 4756776271874600980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_79"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 275
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990c8bcd14215720800000000000000
+      internalID: 2833085350980356506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_80"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 284
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1883e6edda19280800000000000000
+      internalID: -9038251806312332856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_81"
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 215
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f9a6e436cdb45a0800000000000000
+      internalID: -6535888115122659524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_82"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 221
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c928df21081fc670800000000000000
+      internalID: 8561087810031331778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_83"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 220
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c62ab77746d08410800000000000000
+      internalID: 1477416280217233094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "minimapa, teclaso y rat\xF3n_84"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 219
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a386c88b18aa040800000000000000
+      internalID: 4659679394097805848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

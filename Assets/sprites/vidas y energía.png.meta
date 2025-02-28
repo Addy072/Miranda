@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: a8f417df773b5f24fa0dcc152a7f8720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7962184509244177478
+    second: "vidas y energ\xEDa_0"
+  - first:
+      213: 3910353906339420714
+    second: "vidas y energ\xEDa_1"
+  - first:
+      213: 792455327761164289
+    second: "vidas y energ\xEDa_2"
+  - first:
+      213: 2130642375670752776
+    second: "vidas y energ\xEDa_3"
+  - first:
+      213: -7862011809606450518
+    second: "vidas y energ\xEDa_4"
+  - first:
+      213: -5720938710467786930
+    second: "vidas y energ\xEDa_5"
+  - first:
+      213: 251345254007440901
+    second: "vidas y energ\xEDa_6"
+  - first:
+      213: -5775482469567995690
+    second: "vidas y energ\xEDa_7"
+  - first:
+      213: -4018186912739090723
+    second: "vidas y energ\xEDa_8"
+  - first:
+      213: 7775636827251498293
+    second: "vidas y energ\xEDa_9"
+  - first:
+      213: -3892383154328568202
+    second: "vidas y energ\xEDa_10"
+  - first:
+      213: 638576806854273678
+    second: "vidas y energ\xEDa_11"
+  - first:
+      213: 4896451558204219198
+    second: "vidas y energ\xEDa_12"
+  - first:
+      213: -7845074851793910061
+    second: "vidas y energ\xEDa_13"
+  - first:
+      213: 4462515044375562990
+    second: "vidas y energ\xEDa_14"
+  - first:
+      213: -8131212865773191170
+    second: "vidas y energ\xEDa_15"
+  - first:
+      213: -7220354207468496199
+    second: "vidas y energ\xEDa_16"
+  - first:
+      213: -2735377973795229050
+    second: "vidas y energ\xEDa_17"
+  - first:
+      213: -6044008312853081353
+    second: "vidas y energ\xEDa_18"
+  - first:
+      213: -1901560648433946339
+    second: "vidas y energ\xEDa_19"
+  - first:
+      213: 219053149558302154
+    second: "vidas y energ\xEDa_20"
+  - first:
+      213: -8985112421223568403
+    second: "vidas y energ\xEDa_21"
+  - first:
+      213: 8422772611081564094
+    second: "vidas y energ\xEDa_22"
+  - first:
+      213: -1331095222700558886
+    second: "vidas y energ\xEDa_23"
+  - first:
+      213: 2449685391753505478
+    second: "vidas y energ\xEDa_24"
+  - first:
+      213: 8888322219949417081
+    second: "vidas y energ\xEDa_25"
+  - first:
+      213: -7635755406224246943
+    second: "vidas y energ\xEDa_26"
+  - first:
+      213: 7438159527377749615
+    second: "vidas y energ\xEDa_27"
+  - first:
+      213: 1231212704821999211
+    second: "vidas y energ\xEDa_28"
+  - first:
+      213: 5549146824334132912
+    second: "vidas y energ\xEDa_29"
+  - first:
+      213: 8573130783096329728
+    second: "vidas y energ\xEDa_30"
+  - first:
+      213: 9026737113492037014
+    second: "vidas y energ\xEDa_31"
+  - first:
+      213: -1684783497777796768
+    second: "vidas y energ\xEDa_32"
+  - first:
+      213: -8076181207126776606
+    second: "vidas y energ\xEDa_33"
+  - first:
+      213: 5150721761095909905
+    second: "vidas y energ\xEDa_34"
+  - first:
+      213: -7381289163367514222
+    second: "vidas y energ\xEDa_35"
+  - first:
+      213: 9050662672887054489
+    second: "vidas y energ\xEDa_36"
+  - first:
+      213: -7461296620824806907
+    second: "vidas y energ\xEDa_37"
+  - first:
+      213: -2646425454903461896
+    second: "vidas y energ\xEDa_38"
+  - first:
+      213: -9061031398545801697
+    second: "vidas y energ\xEDa_39"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_0"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 391
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cfd9d20ac5f7e60800000000000000
+      internalID: 7962184509244177478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_1"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 686
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a1c6de82e544630800000000000000
+      internalID: 3910353906339420714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_2"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 583
+        width: 300
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e1970ced5ffa00800000000000000
+      internalID: 792455327761164289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_3"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 692
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ef39b3ff819d10800000000000000
+      internalID: 2130642375670752776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_4"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 589
+        width: 55
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa24b74f9e584e290800000000000000
+      internalID: -7862011809606450518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_5"
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 689
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4749ccbd842b90b0800000000000000
+      internalID: -5720938710467786930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_6"
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 689
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50608154d25fc7300800000000000000
+      internalID: 251345254007440901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_7"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 663
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d067e23b4d59dfa0800000000000000
+      internalID: -5775482469567995690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_8"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 669
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde1019ca488c38c0800000000000000
+      internalID: -4018186912739090723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_9"
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 393
+        width: 37
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d55ce4f7c98eb60800000000000000
+      internalID: 7775636827251498293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_10"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 640
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef784d42a7bf9c0800000000000000
+      internalID: -3892383154328568202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_11"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 646
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2a56f83eacd800800000000000000
+      internalID: 638576806854273678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_12"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 391
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f9baaefb0b3f340800000000000000
+      internalID: 4896451558204219198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_13"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 617
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6497ebcf1b02390800000000000000
+      internalID: -7845074851793910061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_14"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 623
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea87d81ac90eed30800000000000000
+      internalID: 4462515044375562990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_15"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 594
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb086caf0282f80800000000000000
+      internalID: -8131212865773191170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_16"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 600
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bad7577a162ccb90800000000000000
+      internalID: -7220354207468496199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_17"
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 393
+        width: 26
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f189b93cf90ad0800000000000000
+      internalID: -2735377973795229050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_18"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 41
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f252e4467e5f1ca0800000000000000
+      internalID: -6044008312853081353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_19"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 41
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11bb374aac4c95e0800000000000000
+      internalID: -1901560648433946339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_20"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 37
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56a5ecdab3a0300800000000000000
+      internalID: 219053149558302154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_21"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe40aabd77e4380800000000000000
+      internalID: -8985112421223568403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_22"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 38
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe7636013b3e470800000000000000
+      internalID: 8422772611081564094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_23"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 38
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5b6b882fff68de0800000000000000
+      internalID: -1331095222700558886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_24"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 39
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6ee282e70ff120800000000000000
+      internalID: 2449685391753505478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_25"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 39
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972eb4977f9a95b70800000000000000
+      internalID: 8888322219949417081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_26"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 40
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1673c3cf9e8580690800000000000000
+      internalID: -7635755406224246943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_27"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 40
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66c90c5ea6a93760800000000000000
+      internalID: 7438159527377749615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_28"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 39
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66fcd98e65261110800000000000000
+      internalID: 1231212704821999211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_29"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 39
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b64ce6d2a7820d40800000000000000
+      internalID: 5549146824334132912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_30"
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 39
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0065c6b5601e9f670800000000000000
+      internalID: 8573130783096329728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_31"
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 39
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d178a3499654d70800000000000000
+      internalID: 9026737113492037014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_32"
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 37
+        width: 29
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a38bc5527e98e0800000000000000
+      internalID: -1684783497777796768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_33"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 37
+        width: 39
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4e5874bf3abef80800000000000000
+      internalID: -8076181207126776606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_34"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 39
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1120ffae62a0b7740800000000000000
+      internalID: 5150721761095909905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_35"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 39
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ff9091d94609990800000000000000
+      internalID: -7381289163367514222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_36"
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 38
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990025f9fb96a9d70800000000000000
+      internalID: 9050662672887054489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_37"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 38
+        width: 39
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3ae74146247890800000000000000
+      internalID: -7461296620824806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_38"
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 37
+        width: 29
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f77de3f112064bd0800000000000000
+      internalID: -2646425454903461896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "vidas y energ\xEDa_39"
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 37
+        width: 40
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e340f43ffb04280800000000000000
+      internalID: -9061031398545801697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
